@@ -1,0 +1,34 @@
+_repo: The-Princess-And-The-Jewel-Doctor1905_23413
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hichens, Robert
+    aliases:
+    - Hichens, Robert S. (Robert Smythe)
+    - Hichens, Robert Smythe
+    birthdate: 1864
+    deathdate: 1950
+    gutenberg_agent_id: '919'
+    url: http://www.gutenberg.org/2009/agents/919
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Smythe_Hichens
+description: ''
+gutenberg_issued: '2007-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23413'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Tunis (Tunisia) -- Fiction'
+- !lcsh 'Princesses -- Fiction'
+- !lcsh 'Short stories'
+title: 'The Princess And The Jewel Doctor
+
+  1905'
+url: http://www.gutenberg.org/ebooks/23413
